@@ -22,3 +22,38 @@ The increasing number of vehicles, especially in urban areas, has led to a rise 
 2) Misbah 
 3) Binshad
 4) Rizvin
+
+   
+![output](https://github.com/mishal-22/deep-learning-based-auto-accident-detection-and-alert-system-for-vehicles/assets/107937088/91b167cf-edae-42c3-a29c-edc201f790d6)
+
+
+![Screenshot 2023-12-25 125828](https://github.com/mishal-22/deep-learning-based-auto-accident-detection-and-alert-system-for-vehicles/assets/107937088/cb54060e-a0b9-47fd-921b-c5dcd2b385de)
+
+
+![Screenshot 2023-12-25 125840](https://github.com/mishal-22/deep-learning-based-auto-accident-detection-and-alert-system-for-vehicles/assets/107937088/5031b47c-089d-4e60-85f5-c3ef35e1fed6)
+
+
+![Screenshot 2023-12-25 125849](https://github.com/mishal-22/deep-learning-based-auto-accident-detection-and-alert-system-for-vehicles/assets/107937088/71281959-3145-4bbb-a86f-e8b9e4252e0d)
+
+
+![Screenshot 2023-12-25 125901](https://github.com/mishal-22/deep-learning-based-auto-accident-detection-and-alert-system-for-vehicles/assets/107937088/66fadf22-97a9-467e-b390-433ca858066d)
+
+
+![Screenshot 2023-12-25 125921](https://github.com/mishal-22/deep-learning-based-auto-accident-detection-and-alert-system-for-vehicles/assets/107937088/262581db-1700-4598-8f26-538b3d5da6e6)
+
+
+
+![Screenshot 2023-12-25 125931](https://github.com/mishal-22/deep-learning-based-auto-accident-detection-and-alert-system-for-vehicles/assets/107937088/10c365d5-eae5-4b69-b665-787dc2897618)
+
+
+
+
+
+
+
+
+
+
+
+
+
